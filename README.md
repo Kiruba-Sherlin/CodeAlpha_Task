@@ -17,3 +17,4 @@ DASH BOARD:
 
 TASK NO: 3 REAL ESTATE MARKET TRENDS
 
+<img width="1258" height="701" alt="Image" src="https://github.com/user-attachments/assets/f518227f-993b-4465-afd9-00a3ed1be97e" />
